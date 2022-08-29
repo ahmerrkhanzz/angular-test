@@ -1,0 +1,10 @@
+@import "../../../../assets/scss/_variables.scss";
+
+.userForm {
+  .form-control {
+    border: none;
+    border-radius: unset;
+    background-color: #fff;
+    border-bottom: 1px solid $gray-color;
+  }
+}

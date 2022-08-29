@@ -1,0 +1,11 @@
+@import "../../../assets/scss/_variables.scss";
+
+.nav-item {
+  padding: 0.5rem;
+  &.active {
+    background-color: $primary-color;
+    a {
+      color: #fff;
+    }
+  }
+}

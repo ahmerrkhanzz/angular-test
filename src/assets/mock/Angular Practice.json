@@ -1,0 +1,187 @@
+{
+  "correlationID": "9efe1b1e-a637-4140-8d6d-6fc859512b61",
+  "tourismDefinitionsList": [
+      {
+        "title": "travel",
+        "title_EN": "Travel",
+        "title_AR": "السفر",
+        "description_EN": "Travel refers to the activity of travelers. A traveler is someone who moves between different geographic locations, for any purpose and any duration.",
+        "description_AR": "يشير السفر إلى نشاط المسافرين، والمسافر هو الشخص الذي ينتقل بين مواقع جغرافية مختلفة لأي غرض ولأي مدة"
+      },
+      {
+        "title": "tourism",
+        "title_EN": "Tourism",
+        "title_AR": "السياحة",
+        "description_EN": "Tourism is more limited than travel, as it refers to specific types of trips; those that take a traveler outside his/her usual environment for less than a year and for a main purpose other than to be employed by a resident entity in the place visited. Individuals when taking such trips are called visitors. Tourism is therefore a subset of travel and visitors are a subset of travelers both in international and domestic contexts. Accordingly, tourism refers to the activity of visitors. The notion of activity encompasses all that visitors do for a trip or while on a trip. It is not restricted to what could be considered as typical tourism activities, such as sightseeing, etc. Travelling for the purpose of conducting business, for education and training, etc. can also be part of tourism if the conditions that have been set up to define visitors are met.\nIt is recommended that visitors be classified on the basis of their country of residence. The concept of citizenship is not part of the requirements or definitions of tourism statistics.",
+        "description_AR": "السياحة أقل شمولاً من السفر، إذ أنها تشير إلى أنواع محددة من الرحلات؛ أي الرحلات التي ينتقل فيها المسافر خارج بيئته المعتادة لمدة تقل عن سنة ولغرض رئيس خلاف العمل لدى كيان مقيم في المكان المزار، ويسمى الأفراد عند قيامهم بهذه الرحلات زواراً، ولذلك كانت السياحة مجموعة فرعية من السفر وكان الزوار مجموعة فرعية من المسافرين في كلا السياقين الدولي والمحلي، وبذلك تشير السياحة إلى نشاط الزوار،  ويدخل في مفهوم نشاط الزائر كل ما يفعله الزائر من أجل الرحلة أو أثناءها، ولا يقتصر على ما يمكن اعتباره أنشطة سياحية نمطية، مثل مشاهدة المعالم السياحية، وغيرها. ويمكن أيضاً اعتبار السفر لغرض الأعمال التجارية أو التعليم والتدريب، وغيرها، جزءاً من السياحة إذا توفرت الشروط الموضوعة لتعريف الزوار. \nويوصى بتصنيف الزوار على أساس بلد إقامتهم، فالجنسية ليست جزءًا من متطلبات أو تعاريف إحصاءات السياحة."
+      },
+      {
+        "title": "visitor",
+        "title_EN": "Visitor",
+        "title_AR": "الزائر",
+        "description_EN": "A visitor is a traveler taking a trip to a main destination outside his/her usual environment, for less than a year, for any main purpose (business, leisure or other personal purpose) other than to be employed by a resident entity in the country or place visited.",
+        "description_AR": "الزائر هو مسافر يقوم برحلة إلى وجهة رئيسة خارج بيئته المعتادة، لمدة تقل عن عام واحد، لأي غرض رئيس (عمل تجاري، أو ترفيه أو غرض شخصي آخر) بخلاف العمل لدى كيان مقيم في البلد أو المكان محل الزيارة."
+      },
+      {
+        "title": "trip",
+        "title_EN": "Trip",
+        "title_AR": "الرحلة",
+        "description_EN": "A trip refers to the travel by a person from the time of departure from his usual residence until he/she returns; it thus refers to a round trip. Trips taken by visitors are tourism trips. A tourism trip is characterized by its main destination, among other characteristics (for example, main purpose).",
+        "description_AR": "تشير الرحلة إلى سفر الشخص من وقت المغادرة من محل إقامته المعتاد حتى عودته، وبالتالي تشير إلى رحلة ذهاب وإياب، تمثل الرحلات التي يقوم بها الزوار رحلات سياحية. وتتسم الرحلة السياحية بوجهتها الرئيسة، من بين خصائص أخرى (على سبيل المثال، الغرض الرئيس)."
+      },
+      {
+        "title": "visit",
+        "title_EN": "Visit",
+        "title_AR": "الزيارة",
+        "description_EN": "A trip is made up of visits to different places. The term “tourism visit” refers to a stay in a place visited during a tourism trip.",
+        "description_AR": "تتكون الرحلة من عدة زيارات لأماكن مختلفة، ويشير مصطلح “زيارة سياحية” إلى البقاء في المكان محل الزيارة أثناء الرحلة السياحية."
+      },
+      {
+        "title": "tourist-overnight-visitor",
+        "title_EN": "Tourist (Overnight visitor)",
+        "title_AR": "السائح (زائر المبيت)",
+        "description_EN": "A visitor (domestic, inbound or outbound) is classified as a tourist (or overnight visitor), if his/her trip includes an overnight stay in the country or place visited.",
+        "description_AR": "يصنف الزائر (المحلي، أو الوافد أو المغادر) كسائح إذا تضمنت رحلته المبيت ليلة واحدة على الأقل في البلد أو المكان محل الزيارة."
+      },
+      {
+        "title": "same-day-visitor",
+        "title_EN": "Same-day visitor (or excursionist)",
+        "title_AR": "زائر اليوم الواحد (المتنزه)",
+        "description_EN": "A visitor (domestic, inbound or outbound) is classified as a same-day visitor (or excursionist), if he/ she spent less than 24 hours in the country or place visited.",
+        "description_AR": "يصنف الزائر (المحلي، أو الوافد أو المغادر) كزائر ليوم واحد (أو متنزه)، إذا قضى أقل من 24 ساعة في البلد أو المكان محل الزيارة."
+      },
+      {
+        "title": "domestic-tourism",
+        "title_EN": "Domestic tourism",
+        "title_AR": "السياحة المحلية",
+        "description_EN": "Domestic tourism comprises the activities of a resident visitor within the country of reference, either as part of a domestic tourism trip or part of an outbound tourism trip.",
+        "description_AR": "تشمل السياحة المحلية أنشطة الزائر المقيم في البلد المرجعي، سواء كجزء من رحلة سياحية محلية أو جزء من رحلة سياحية مغادرة."
+      },
+      {
+        "title": "inbound-tourism",
+        "title_EN": "Inbound tourism",
+        "title_AR": "السياحة الوافدة",
+        "description_EN": "Inbound tourism comprises the activities of a non-resident visitor within the country of reference on an inbound tourism trip.",
+        "description_AR": "تشمل السياحة الوافدة الأنشطة التي يقوم بها زائر غير مقيم في البلد المرجعي ضمن رحلة سياحية وافدة."
+      },
+      {
+        "title": "outbound-tourism",
+        "title_EN": "Outbound tourism",
+        "title_AR": "السياحة المغادرة",
+        "description_EN": "Outbound tourism comprises the activities of a resident visitor outside the country of reference, either as part of an outbound tourism trip or as part of a domestic tourism trip.",
+        "description_AR": "تشمل السياحة المغادرة الأنشطة التي يقوم بها زائر مقيم خارج البلد المرجعي، سواء كجزء من رحلة سياحية مغادرة أو كجزء من رحلة سياحية محلية."
+      },
+      {
+        "title": "internal-tourism",
+        "title_EN": "Internal tourism",
+        "title_AR": "السياحة الداخلية",
+        "description_EN": "Internal tourism comprises domestic tourism and inbound tourism, that is to say, the activities of resident and non-resident visitors within the country of reference as part of domestic or international tourism trips.",
+        "description_AR": "تمثل السياحة الداخلية مجموع السياحة المحلية والسياحة الوافدة، أي أنشطة الزوار المقيمين وغير المقيمين في البلد المرجعي كجزء من الرحلات السياحية المحلية أو الدولية."
+      },
+      {
+        "title": "international-tourism",
+        "title_EN": "International tourism",
+        "title_AR": "السياحة الدولية",
+        "description_EN": "International tourism comprises inbound tourism and outbound tourism, hat is to say, the activities of resident visitors outside the country of reference, either as part of domestic or outbound tourism trips and the activities of non-resident visitors within the country of reference on inbound tourism trips.",
+        "description_AR": "تشمل السياحة الدولية مجموع السياحة الوافدة والسياحة المغادرة، أي أنشطة الزوار المقيمين خارج البلد المرجعي، إما كجزء من الرحلات السياحية المحلية أو الرحلات السياحية المغادرة، وأنشطة الزوار غير المقيمين في البلد المرجعي للرحلات السياحية الوافدة."
+      },
+      {
+        "title": "national-tourism",
+        "title_EN": "National tourism",
+        "title_AR": "السياحة الوطنية",
+        "description_EN": "National tourism comprises domestic tourism and outbound tourism, that is to say, the activities of resident visitors within and outside the country of reference, either as part of domestic or outbound tourism trips.",
+        "description_AR": "تمثل السياحة الوطنية مجموع السياحة المحلية والسياحة المغادرة، أي أنشطة الزوار المقيمين داخل وخارج البلد المرجعي، سواءً كجزء من الرحلات السياحية المحلية أو الرحلات السياحية المغادرة."
+      },
+      {
+        "title": "country-of-residence",
+        "title_EN": "Country of residence",
+        "title_AR": "بلد الإقامة",
+        "description_EN": "The country of residence is determined according to the center of predominant economic interest. If a person resides (or intends to reside) for more than one year in a given country and has there his/her center of economic interest (for example, where the predominant amount of time is spent), he/she is considered as a resident of this country.",
+        "description_AR": "يتحدد بلد الإقامة بحسب المصلحة الاقتصادية الغالبة، وإذا كان الشخص مقيماً (أو ينوي الإقامة) لمدة تزيد عن عام واحد في بلد معين وله فيه مصلحة اقتصادية (على سبيل المثال، يقضى فيه أغلبية الوقت) فإنه يعتبر مقيماً في هذا البلد."
+      },
+      {
+        "title": "destination",
+        "title_EN": "Destination (main destination of a trip)",
+        "title_AR": "الوجهة السياحية (الوجهة الرئيسة للرحلة)",
+        "description_EN": "The main destination of a tourism trip is defined as the place visited that is central to the decision to take the trip.",
+        "description_AR": "تعرف الوجهة الرئيسة للرحلة السياحية بأنها المكان محل الزيارة والذي يمثل محور قرار القيام بالرحلة."
+      },
+      {
+        "title": "usual-environment",
+        "title_EN": "Usual environment ",
+        "title_AR": "البيئة المعتادة",
+        "description_EN": "The usual environment of an individual, a key concept in tourism, is defined as the geographical area (though not necessarily a contiguous one) within which an individual conducts his/her regular life routine.\nThe purpose of introducing the concept of usual environment is to exclude from visitors those travelers commuting regularly between their place of usual residence and place of work or study, or frequently visiting places within their current life routine, for instance homes of friends or relatives, shopping centers, religious, healthcare or any other facilities that might be at a substantial distance away or in a different administrative area but are regularly and frequently visited.",
+        "description_AR": "تعرف البيئة المعتادة للفرد وهي مفهوم رئيس في السياحة، بأنها المنطقة الجغرافية (وليس بالضرورة أن تكون منطقة واحدة أو مناطق متجاورة) التي يمارس فيها الفرد أساليب حياته الاعتيادية، والغرض من تقديم مفهوم البيئة المعتادة هو أن يُستبعد من الزوار من يسافرون ذهاباً وإياباً بانتظام بين محل إقامتهم المعتاد ومكان العمل أو الدراسة، أو من يزورون الأماكن مراراً في الروتين الحالي لحياتهم، وعلى سبيل المثال بيوت الأصدقاء أو الأقارب، أو مراكز التسوق، أو الأماكن الدينية، أو مرافق الرعاية الصحية أو أيّ مرافق أخرى قد تكون على مسافة بعيدة أو في منطقة إدارية مختلفة ولكنها تزار بانتظام وبشكل متكرر."
+      },
+      {
+        "title": "purpose-of-trip",
+        "title_EN": "Purpose of a Tourism Trip (Main)",
+        "title_AR": "غرض الرحلة السياحية (الرئيس)",
+        "description_EN": "The main purpose of a tourism trip is defined as the purpose in the absence of which the trip would not have taken place. Each tourism trip has one and only one main purpose though a visitor can also undertake secondary activities while on his/her trip. The classification of a tourism trip according to its main purpose includes 2 main categories divided into 9 sub-categories:\n---\n1. Personal\n---\n     1.1. Holidays, leisure, and recreation\n---\n     1.2. Visiting friends and relatives\n---\n     1.3. Education and training\n---\n     1.4. Health and medical care\n---\n     1.5. Religion/pilgrimages\n---\n     1.6. Shopping\n---\n     1.7. Transit\n---\n     1.8. Other\n---\n2. Business and professional",
+        "description_AR": "يعرف الغرض الرئيس للرحلة السياحية بأنه الغرض الذي لم تكن الرحلة لتحدث في غيابه، ولكل رحلة سياحية غرض رئيس واحد فقط مع أن الزائر يمكن أن يقوم أيضاً بأنشطة ثانوية أثناء قيامه بالرحلة، وتصنيف رحلات السياحة بحسب الغرض الرئيس يشمل فئتين أساسيتين تنقسم إلى 9 فئات فرعية: \n---\n1- الأغراض الشخصية\n---\n     1- 1 الترفيه، والترويح، وقضاء العطلات\n---\n     1- 2 زيارة الأصدقاء والأقارب\n---\n     1- 3 التعليم والتدريب\n---\n     1- 4 الرعاية الطبية والصحية\n---\n     1- 5 الأغراض الدينية والحج\n---\n     1- 6 التسويق\n---\n     1- 7 العبور\n---\n     1- 8 أخرى\n---\n2- الأغراض المهنية والعمل التجاري"
+      },
+      {
+        "title": "tourism-expenditure",
+        "title_EN": "Tourism Expenditure",
+        "title_AR": "الإنفاق السياحي",
+        "description_EN": "Tourism expenditure refers to the amount paid for the acquisition of consumption goods and services, as well as valuables, for own use or to give away, for and during tourism trips. It includes expenditures by visitors themselves, as well as expenses that are paid for or reimbursed by others.",
+        "description_AR": "يشير الإنفاق السياحي إلى المبلغ المدفوع للحصول على السلع الاستهلاكية والخدمات، وكذلك الأشياء الثمينة، لأغراض الاستخدام الخاص أو للإهداء، لأغراض الرحلات السياحية وأثناءها، ويشمل نفقات الزوار أنفسهم، وكذلك النفقات التي تدفع أو ترد لهم من الغير."
+      },
+      {
+        "title": "tourism-characteristic-products",
+        "title_EN": "Tourism Characteristic Products",
+        "title_AR": "المنتجات المميزة للسياحة",
+        "description_EN": "Tourism characteristic products are those that satisfy one or both of the following criteria:\n---\n1- (Share-of-expenditure/demand condition) Tourism expenditure on the product should represent a significant share total tourism expenditure;\n---\n2- (Share-of-supply condition) Tourism expenditure on the product should represent a significant share of the supply of the product in the economy. This criterion implies that the supply of a tourism characteristic product would cease to exist in meaningful quantity in the absence of visitors.",
+        "description_AR": "تشير المنتجات المميزة للسياحة إلى المنتجات التي تفي بأحد المعيارين التاليين أو كليهما:\n---\n1- معيار حصة الإنفاق/حالة الطلب: ينبغي أن يمثل الإنفاق السياحي على المنتج حصة هامة من مجموع الإنفاق السياحي.\n---\n2- معيار حصة العرض: ينبغي أن يمثل الإنفاق السياحي على المنتج حصة هامة من عرض المنتج في الاقتصاد، ويعني هذا المعيار أن عرض المنتج المميز للسياحة لن يكون متوفر بكمية هامة في حالة غياب الزوار."
+      },
+      {
+        "title": "tourism-industries",
+        "title_EN": "Tourism Industries",
+        "title_AR": "الصناعات السياحية",
+        "description_EN": "The tourism industries comprise all establishments for which the principal activity is a tourism characteristic activity. The term tourism industries is equivalent to the term (Tourism Characteristic Activities).",
+        "description_AR": "تشمل الصناعات السياحية جميع المؤسسات التي يكون نشاطها الرئيس نشاطاً سياحياً مميزاً، ومصطلح الصناعات السياحية معادلاً للأنشطة المميزة للسياحة."
+      },
+      {
+        "title": "tourism-characteristic-activities",
+        "title_EN": "Tourism Characteristic Activities",
+        "title_AR": "الأنشطة الإنتاجية المميزة للسياحة",
+        "description_EN": "Tourism characteristic activities are the activities that typically produce tourism characteristic products. The list of tourism characteristic activities includes 10 Internationally comparable activities, plus 2 activities called country specific tourism characteristic activities (to be determined by each country by applying the criteria mentioned in international recommendations, in their own context).\n---\n1- Accommodation for visitors\n---\n2- Food- and beverage-serving activities\n---\n3- Railway passenger transport\n---\n4 Road passenger transport\n---\n5- Water passenger transport\n---\n6-\tAir passenger transport\n---\n7-\tTransport equipment rental\n---\n8-\tTravel agencies and other reservation services activities\n---\n9-\tCultural activities\n---\n10-\tSports and recreational activities\n---\n11-\tRetail trade of country-specific tourism characteristic goods\n---\n12-\tOther country-specific tourism characteristic activities",
+        "description_AR": "الأنشطة المميزة للسياحة هي الأنشطة التي تنتج عادة منتجات مميزة للسياحة، وتشمل قائمة الأنشطة المميزة للسياحة 10 أنشطة قابلة للمقارنة دولياً، بجانب نشاطين يطلق عليها الأنشطة الخاصة بكل بلد (ويحددها كل بلد بتطبيق المعايير المذكورة في التوصيات الدولية ضمن سياقها المحلي).\n---\n1-\tأنشطة إقامة الزوار \n---\n2-\tأنشطة تقديم الطعام والشراب\n---\n3-\tنقل الركاب بالسكك الحديدية\n---\n4-\tالنقل البري للركاب\n---\n5-\tلنقل المائي للركاب\n---\n6-\tالنقل الجوي للركاب\n---\n7-\tاستئجار معدات النقل\n---\n8-\tأنشطة وكالات السفر وخدمات الحجز الأخرى\n---\n9-\tالأنشطة الثقافية\n---\n10-\tالأنشطة الرياضية والترفيهية\n---\n11-\tتجارة التجزئة في السلع المميِّزة للسياحة الخاصة بكل بلد\n---\n12-\tالأنشطة الأخرى المميِّزة للسياحة الخاصة بكل بلد"
+      },
+      {
+        "title": "employment-in-tourism-industries",
+        "title_EN": "Employment in Tourism Industries",
+        "title_AR": "العمالة في الصناعات السياحية",
+        "description_EN": "Employment in tourism industries may be measured as a count of the persons employed in tourism industries in any of their jobs, as a count of the persons employed in tourism industries in their main job, or as a count of the jobs in tourism industries.",
+        "description_AR": "العمالة في الصناعات السياحية قد تقاس كحصر للأشخاص المشتغلين في الصناعات السياحية في أي من وظائفهم، أو كحصر للأشخاص المشتغلين في الصناعات السياحية في وظيفتهم الرئيسة، أو كحصر للوظائف في الصناعات السياحية."
+      },
+      {
+        "title": "gvati",
+        "title_EN": "Gross Value Added of Tourism Industries (GVATI)",
+        "title_AR": "القيمة المضافة الإجمالية للصناعات السياحية",
+        "description_EN": "The total gross value added of all establishments belonging to tourism industries, regardless of whether all their output is provided to visitors and the degree of specialization of their production process.",
+        "description_AR": "مجموع القيمة المضافة الإجمالية لجميع المنشآت التي تنتمي إلى الصناعات السياحية، بغض النظر عما إن كان كل ناتجها يقدم إلى الزوار وبغض النظر عن درجة التخصص في عملية الإنتاج."
+      },
+      {
+        "title": "tdgva",
+        "title_EN": "Tourism Direct Gross Value Added (TDGVA)",
+        "title_AR": "القيمة المضافة الإجمالية المباشرة للسياحة",
+        "description_EN": "The part of gross value added generated by tourism industries and other industries of the economy that directly serve visitors in response to internal tourism consumption.",
+        "description_AR": "جزء القيمة المضافة الإجمالية المتولد عن الصناعات السياحية والصناعات الأخرى في الاقتصاد التي تخدم الزوار بصورة مباشرة استجابة للاستهلاك السياحي الداخلي."
+      },
+      {
+        "title": "tdgdp",
+        "title_EN": "Tourism Direct Gross Domestic Product (TDGDP)",
+        "title_AR": "الناتج المحلي الإجمالي المباشر للسياحة",
+        "description_EN": "The sum of the part of gross value added (at basic prices) generated by all industries in response to internal tourism consumption plus the amount of net taxes on products and imports included within the value of this  expenditure at purchasers’ prices",
+        "description_AR": "حاصل جمع جزء القيمة المضافة الإجمالية المتولِّد عن جميع الصناعات (بالأسعار الأساسية) استجابة للاستهلاك السياحي الداخلي مضافاً إليه مبلغ الضرائب الصافية على المنتجات والواردات المشمولة في قيمة هذا الإنفاق بأسعار الشراء"
+      },
+      {
+        "title": "tsa",
+        "title_EN": "Tourism Satellite Account (TSA)",
+        "title_AR": "حساب السياحة الفرعي",
+        "description_EN": "The Tourism Satellite Account is the main internationally recognized standard to measure the economic significance of tourism within a framework of internal and external consistency with the rest of the statistical system through its link to the System of National Accounts. It is the basic reconciliation framework of tourism statistics. As a statistical tool for the economic accounting of tourism, the TSA can be seen as a set of 10 summary tables, each with their underlying data and representing a different aspect of the economic data relative to tourism: inbound, domestic tourism and outbound tourism expenditure, internal tourism expenditure, production accounts of tourism industries, the Gross Value Added (GVA) and Gross Domestic Product (GDP) attributable to tourism demand, employment, investment, government consumption, and non-monetary indicators.",
+        "description_AR": "يمثل حساب السياحة الفرعي المعيار الأساس المعترف به دولياً لقياس الأهمية الاقتصادية للسياحة ضمن إطار من الاتساق الداخلي والخارجي مع بقية النظام الإحصائي من خلال صلته بنظام الحسابات القومية، ويمثل إطار عمل المطابقة الأساسية لإحصاءات السياحة، وكأداة إحصائية للمحاسبة الاقتصادية للسياحة، يمكن النظر إلى حساب السياحة الفرعي كمجموعة من 10 جداول قياسية، كل منها يحتوي على بيانات أساسية ويمثل جانباً مختلفاً من البيانات الاقتصادية المتعلقة بالسياحة: السياحة الوافدة، السياحة المحلية، إنفاق السياحة المغادرة، استهلاك السياحة الداخلية، حسابات الإنتاج للصناعات السياحية، القيمة المضافة الإجمالية والناتج المحلي الإجمالي المنسوب إلى الطلب السياحي، التوظيف، الاستثمار، الاستهلاك الحكومي، والمؤشرات غير النقدية."
+      }
+    ]
+}

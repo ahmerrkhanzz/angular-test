@@ -1,0 +1,128 @@
+<div
+  class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom"
+>
+  <h1 class="h2">Form</h1>
+</div>
+
+<div class="container-fluid userForm">
+  <div class="row">
+    <form [formGroup]="userInformationForm">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="form-floating mb-3">
+            <input
+              formControlName="firstName"
+              (keydown)="textValidator($event)"
+              type="text"
+              class="form-control"
+              id="floatingInput"
+              placeholder="dummy"
+            />
+            <label for="floatingInput"
+              >First Name <span class="text-danger">*</span></label
+            >
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="form-floating">
+            <input
+              type="text"
+              formControlName="lastName"
+              class="form-control"
+              (keydown)="textValidator($event)"
+              id="floatingLname"
+              placeholder="dummy"
+            />
+            <label class="text-muted" for="floatingLname"
+              >Last Name <span class="text-danger">*</span></label
+            >
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="form-floating mb-3">
+            <input
+              type="text"
+              minlength="10"
+              maxlength="10"
+              formControlName="mobile"
+              class="form-control"
+              (keydown)="numericValidator($event)"
+              id="floatingMobile"
+              placeholder="dummy"
+            />
+            <label for="floatingMobile" class="text-muted"
+              >Mobile Number <span class="text-danger">*</span></label
+            >
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="form-floating">
+            <input
+              type="text"
+              minlength="10"
+              maxlength="10"
+              formControlName="phone"
+              class="form-control"
+              (keydown)="numericValidator($event)"
+              id="floatingPhone"
+              placeholder="dummy"
+            />
+            <label class="text-muted" for="floatingPhone"
+              >Phone Number <span class="text-danger">*</span></label
+            >
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="form-floating mb-3">
+            <input
+              type="text"
+              formControlName="address"
+              class="form-control"
+              id="floatingAddress"
+              placeholder="dummy"
+            />
+            <label for="floatingAddress" class="text-muted"
+              >Address <span class="text-danger">*</span></label
+            >
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="form-floating">
+          <textarea
+            formControlName="details"
+            class="form-control"
+            placeholder="Leave a comment here"
+            id="floatingTextarea2"
+            style="height: 100px"
+          ></textarea>
+          <label for="floatingTextarea2"
+            >Details <span class="text-danger">*</span></label
+          >
+        </div>
+      </div>
+      <div
+        class="d-flex align-items-center justify-content-end mb-4 mt-4 mx-auto"
+      >
+        <button
+          class="btn btn-primary d-flex align-items-center justify-content-center"
+          type="button"
+          [disabled]="this.userInformationForm.invalid"
+          (click)="submitHandler()"
+        >
+          <div class="spinner-border text-light" role="status" *ngIf="loading">
+            <span class="visually-hidden">Loading...</span>
+          </div>
+          <span *ngIf="!loading">Submit</span>
+        </button>
+      </div>
+    </form>
+    <div class="alert alert-primary text-cetner" role="alert" *ngIf="showAlert">
+      Form submitted successfully!
+    </div>
+  </div>
+</div>

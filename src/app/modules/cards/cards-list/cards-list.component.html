@@ -1,0 +1,39 @@
+<div
+  class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom"
+>
+  <h1 class="h2">Cards List</h1>
+  <div class="btn-toolbar mb-2 mb-md-0">
+    <div class="mb-3">
+      <input
+        type="text"
+        class="form-control"
+        placeholder="Search title..."
+        [(ngModel)]="searchText"
+        (keyup)="filterItem()"
+      />
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="text-center" *ngIf="isLoading">
+      <div class="spinner-border" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+    </div>
+    <ng-container *ngIf="!filteredCardData.length">
+      No match found
+    </ng-container>
+    <div class="col-sm-6 col-lg-3 mb-4" *ngFor="let item of filteredCardData">
+      <div class="card text-center">
+        <div class="card-body" slimScroll>
+          <h5 class="card-title">{{ item.title | uppercase }}</h5>
+          <p class="card-text text-start text-muted">
+            {{ item.description_EN }}
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
